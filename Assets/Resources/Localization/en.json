@@ -1,0 +1,148 @@
+{
+  "strings": [
+    {
+      "key": "reiniciar",
+      "value": "Restart"
+    },
+    {
+      "key": "configuracion",
+      "value": "Settings"
+    },
+    {
+      "key": "continuar",
+      "value": "Continue"
+    },
+    {
+      "key": "salir",
+      "value": "Exit"
+    },
+    {
+      "key": "btnAudio",
+      "value": "Audio"
+    },
+    {
+      "key": "btnGraficos",
+      "value": "Graphics"
+    },
+    {
+      "key": "btnControles",
+      "value": "Controls"
+    },
+    {
+      "key": "btnPantalla",
+      "value": "Screen"
+    },
+    {
+      "key": "btnIdioma",
+      "value": "Language"
+    },
+    {
+      "key": "btnAplicar",
+      "value": "Apply"
+    },
+    {
+      "key": "txtCBIdioma",
+      "value": "Language"
+    },
+    {
+      "key": "door_close_prompt",
+      "value": "Press E to close."
+    },
+    {
+      "key": "door_open_prompt",
+      "value": "Press E to open."
+    },
+    {
+      "key": "door_required_key",
+      "value": "Requires {0} to open."
+    },
+    {
+      "key": "bolaAmarilla",
+      "value": "Yellow Ball"
+    },
+    {
+      "key": "bolaAzul",
+      "value": "Blue Ball"
+    },
+    {
+      "key": "bolaVerde",
+      "value": "Green Ball"
+    },
+    {
+      "key": "bolaRosa",
+      "value": "Pink Ball"
+    },
+    {
+      "key": "bolaRoja",
+      "value": "Red Ball"
+    },
+    {
+      "key": "bolaNegra",
+      "value": "Black Ball"
+    },
+    {
+      "key": "bolaNaranja",
+      "value": "Orange Ball"
+    },
+    {
+      "key": "bolaMorada",
+      "value": "Purple Ball"
+    },
+    {
+      "key": "controls_hints",
+      "value": "[{0}] Interact\n[{1}] Drop\nHold [{2}] for inventory"
+    },
+    {
+      "key": "key_E",
+      "value": "E"
+    },
+    {
+      "key": "key_Q",
+      "value": "Q"
+    },
+    {
+      "key": "key_Tab",
+      "value": "TAB"
+    },
+    {
+      "key": "Titulo",
+      "value": "Rice"
+    },
+    {
+      "key": "btnStart",
+      "value": "Start"
+    },
+    {
+      "key": "btnExit",
+      "value": "Exit"
+    },
+    {
+      "key": "btnSandbox",
+      "value": "Sandbox"
+    },
+    {
+      "key": "titleConfiguracionIdioma",
+      "value": "Language Configuration"
+    },
+    {
+      "key": "titleConfiguracionAudio",
+      "value": "Audio Configuration"
+    },
+    {
+      "key": "lblVolumenGeneral",
+      "value": "Master Volume"
+    },
+    {
+      "key": "lblVolumenMusica",
+      "value": "Music Volume"
+    },
+    {
+      "key": "lblVolumenEfectos",
+      "value": "Effects Volume"
+    },
+    {
+      "key": "titleConfiguracionPantalla",
+      "value": "Screen configuration"
+    }
+  ]
+}

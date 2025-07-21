@@ -1,0 +1,148 @@
+{
+  "strings": [
+    {
+      "key": "reiniciar",
+      "value": "Reiniciar"
+    },
+    {
+      "key": "configuracion",
+      "value": "Configuracion"
+    },
+    {
+      "key": "continuar",
+      "value": "Continuar"
+    },
+    {
+      "key": "salir",
+      "value": "Salir"
+    },
+    {
+      "key": "btnAudio",
+      "value": "Audio"
+    },
+    {
+      "key": "btnGraficos",
+      "value": "Graficos"
+    },
+    {
+      "key": "btnControles",
+      "value": "Controles"
+    },
+    {
+      "key": "btnPantalla",
+      "value": "Pantalla"
+    },
+    {
+      "key": "btnIdioma",
+      "value": "Idioma"
+    },
+    {
+      "key": "btnAplicar",
+      "value": "Aplicar"
+    },
+    {
+      "key": "txtCBIdioma",
+      "value": "Idioma"
+    },
+    {
+      "key": "door_close_prompt",
+      "value": "Presiona E para cerrar."
+    },
+    {
+      "key": "door_open_prompt",
+      "value": "Presiona E para abrir."
+    },
+    {
+      "key": "door_required_key",
+      "value": "Requiere {0} para abrir."
+    },
+    {
+      "key": "bolaAmarilla",
+      "value": "Bola Amarilla"
+    },
+    {
+      "key": "bolaAzul",
+      "value": "Bola Azul"
+    },
+    {
+      "key": "bolaVerde",
+      "value": "Bola Verde"
+    },
+    {
+      "key": "bolaRosa",
+      "value": "Bola Rosa"
+    },
+    {
+      "key": "bolaRoja",
+      "value": "Bola Roja"
+    },
+    {
+      "key": "bolaNegra",
+      "value": "Bola Negra"
+    },
+    {
+      "key": "bolaNaranja",
+      "value": "Bola Naranja"
+    },
+    {
+      "key": "bolaMorada",
+      "value": "Bola Morada"
+    },
+    {
+      "key": "controls_hints",
+      "value": "[{0}] Interactuar \n[{1}] Soltar\nManten [{2}] para el inventario"
+    },
+    {
+      "key": "key_E",
+      "value": "E"
+    },
+    {
+      "key": "key_Q",
+      "value": "Q"
+    },
+    {
+      "key": "key_Tab",
+      "value": "TAB"
+    },
+    {
+      "key": "Titulo",
+      "value": "Arroz"
+    },
+    {
+      "key": "btnStart",
+      "value": "Comenzar"
+    },
+    {
+      "key": "btnExit",
+      "value": "Salir"
+    },
+    {
+      "key": "btnSandbox",
+      "value": "Caja de arena"
+    },
+    {
+      "key": "titleConfiguracionIdioma",
+      "value": "Configuracion de Idioma"
+    },
+    {
+      "key": "titleConfiguracionAudio",
+      "value": "Configuracion de Audio"
+    },
+    {
+      "key": "lblVolumenGeneral",
+      "value": "Volumen general"
+    },
+    {
+      "key": "lblVolumenMusica",
+      "value": "Volumen de musica"
+    },
+    {
+      "key": "lblVolumenEfectos",
+      "value": "Volumen de efectos"
+    },
+    {
+      "key": "titleConfiguracionPantalla",
+      "value": "Configuracion de Pantalla"
+    }
+  ]
+}
